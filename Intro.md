@@ -1,5 +1,6 @@
 Course Syllabus for "ARTH206: The Italian Proto-Renaissance To Mannerism "
 --------------------------------------------------------------------------
+Test Edit
 
 In this course, we will focus on becoming “literate” in the art of the
 Italian Renaissance, on identifying the effects that the Renaissance had
