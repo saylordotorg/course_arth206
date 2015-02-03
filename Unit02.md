@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH206 - The Italian Proto-Renaissance To Mannerism"
+course: ARTH206
+course_fulltitle: "The Italian Proto-Renaissance To Mannerism"
+course_description: "Study of the art of the Renaissance from its beginnings in the thirteenth and fourteenth century to the development of Mannerism in the sixteenth century, with particular emphasis on the major works and figures of the Italian Renaissance."
+---
 -   **Unit 2: Art in the Quattrocentro**  
 
     *The “quattrocento” means “fifteenth century” in Italian. The word
