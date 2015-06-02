@@ -116,3 +116,11 @@ helped shape them, but it will also demand that you remember individual
 artists, their styles, and their artworks. The learning outcomes and
 instructional boxes accompanying the links to the course resources will
 help you focus your study.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/arth206/Unit01/)
+- [Unit 2](https://legacy.saylor.org/arth206/Unit02/)
+- [Unit 3](https://legacy.saylor.org/arth206/Unit03/)
+- [Unit 4](https://legacy.saylor.org/arth206/Unit04/)
+- [Unit 5](https://legacy.saylor.org/arth206/Unit05/)
