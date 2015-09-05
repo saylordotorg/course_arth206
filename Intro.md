@@ -1,6 +1,16 @@
 Course Syllabus for "ARTH206: The Italian Proto-Renaissance To Mannerism "
 --------------------------------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_arth206) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 In this course, we will focus on becoming “literate” in the art of the
 Italian Renaissance, on identifying the effects that the Renaissance had
 on the arts of Italy, and discovering the ways in which specific
