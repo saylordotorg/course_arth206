@@ -140,3 +140,4 @@ help you focus your study.
 - [Unit 3](https://legacy.saylor.org/arth206/Unit03/)
 - [Unit 4](https://legacy.saylor.org/arth206/Unit04/)
 - [Unit 5](https://legacy.saylor.org/arth206/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH206/ARTH206-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH206/ARTH206-FinalExam-Answers.html)
