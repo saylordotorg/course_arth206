@@ -70,7 +70,7 @@
 
         Link: Jack E. Maxfield’s [“A Comprehensive Outline of World
         History: Europe: A.D. 1401 to
-        1500”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Eur1401.pdf) 
+        1500”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Eur1401.pdf) 
         (PDF)  
            
          Also available in:  
@@ -135,7 +135,7 @@
         Renaissance”**
 
         Link: SmartHistory.org: [“Florence in the Early
-        Renaissance”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-FlorenceEarlyRen.pdf) (PDF)  
+        Renaissance”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-FlorenceEarlyRen.pdf) (PDF)  
            
          Instructions: Please read this short article, which focuses on
         the city-state of Florence as the cradle of the Renaissance.  
@@ -218,7 +218,7 @@
         Perspective”**
 
         Link: SmartHistory.org: [“Brunelleschi and Linear
-        Perspective”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-BrunLinearPer.pdf) (PDF)  
+        Perspective”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-BrunLinearPer.pdf) (PDF)  
            
          Instructions: Please read this short article that discusses the
         rediscovery of linear perspective at the time of the Italian
@@ -238,7 +238,7 @@
 
         Link: SmartHistory.org's Professor Joseph Dauben’s [“How
         Brunelleschi ‘Discovered’ Linear
-        Perspective”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-BrunLinPerDisc.pdf) (PDF)
+        Perspective”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-BrunLinPerDisc.pdf) (PDF)
         and [“Linear Perspective, Brunelleschi's
         Experiment”](http://smarthistory.khanacademy.org/Brunelleschi.html) (YouTube)  
            
@@ -257,7 +257,7 @@
 
         Link: SmartHistory.org: Professor Joseph Dauben’s [“Applications
         of Linear Perspective in the
-        Renaissance”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-AppLinPerRen.pdf)
+        Renaissance”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-AppLinPerRen.pdf)
         (PDF)  
            
          Instructions: Please read this short article, which discusses
@@ -294,7 +294,7 @@
 
         Link: The Open University: The Renaissance Secrets Team’s
         [“Riddle of the
-        Dome—Transcript”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Dome.pdf) (PDF)  
+        Dome—Transcript”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Dome.pdf) (PDF)  
            
          Also Available in:
         [HTML](http://www.open.ac.uk/openlearn/history-the-arts/history/history-science-technology-and-medicine/history-technology/riddle-the-dome-transccript)  
@@ -379,7 +379,7 @@
 
         Link: Bluffton University: Mary Ann Sullivan’s [“Index of Art
         Historical Sites: Florence, Italy: Palazzo
-        Medici-Riccardi”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-FloMediciRiccardi.pdf) (PDF)  
+        Medici-Riccardi”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-FloMediciRiccardi.pdf) (PDF)  
            
          Instructions: Please carefully view all the images of
         Michelozzo’s Palazzo Medici-Riccardi, and read Mary Ann
@@ -398,7 +398,7 @@
         Link: Robert Baldwin’s *[Social History of Art: “Private Palaces
         and the Roman Republican Style: Michelozzo’s Medici Palace,
         Florence,
-        1440–60”](http://www.saylor.org/site/wp-content/uploads/2012/01/ARTH206-2.2.2-Baldwin-Michelozzo%E2%80%99s-Medici-Palace-and-the-Burgher-Republic1.pdf)*
+        1440–60”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/ARTH206-2.2.2-Baldwin-Michelozzo%E2%80%99s-Medici-Palace-and-the-Burgher-Republic1.pdf)*
         (PDF)  
            
          Instructions: Please go to the webpage linked above. Please
@@ -415,7 +415,7 @@
     -   **Web Media: Image Guide: Medici Palace by Michelozzo**
 
         Links: Image Guide: [Medici Palace by
-        Michelozzo](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Image-Guide-Baldwin-Michelozzo-Medici-Palace-and-the-Burgher-Republic-Upload.pdf) (PDF)  
+        Michelozzo](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Image-Guide-Baldwin-Michelozzo-Medici-Palace-and-the-Burgher-Republic-Upload.pdf) (PDF)  
            
          Instructions: Please view the images above while reading Robert
         Baldwin’s article on the Medici Palace by Michelozzo.  
@@ -470,7 +470,7 @@
     -   **Reading: Connexions: Albert Van Helden’s “The Medici Family”**
 
         Link: Connexions: Albert Van Helden’s [“The Medici
-        Family”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-The-Medici-Family.pdf) (PDF)  
+        Family”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-The-Medici-Family.pdf) (PDF)  
            
          Also available in:  
          [HTML and
@@ -491,7 +491,7 @@
     -   **Reading: SmartHistory.org: “Donatello’s David”**
 
         Link: SmartHistory.org: [“Donatello’s
-        David”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-Donatello.pdf)
+        David”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-Donatello.pdf)
         (PDF)  
            
          Instructions: Please read this transcript of a conversation
@@ -509,7 +509,7 @@
     -   **Reading: SmartHistory.org: “Contrapposto”**
 
         Link: SmartHistory.org:
-        [“Contrapposto”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-Contrapposto.pdf)
+        [“Contrapposto”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-Contrapposto.pdf)
         (PDF)  
            
          Instructions: Please read this short article discussing the
@@ -548,7 +548,7 @@
 
         Link: Robert Baldwin’s *[Social History of Art: “Nanni di Banco,
         Four Crowned Martyrs,
-        1412–15”](http://www.saylor.org/site/wp-content/uploads/2012/01/ARTH206-2.3.4-Baldwin-Nanni-di-Banco%E2%80%99s-Four-Martyrs.pdf) *(PDF)  
+        1412–15”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/ARTH206-2.3.4-Baldwin-Nanni-di-Banco%E2%80%99s-Four-Martyrs.pdf) *(PDF)  
            
          Instructions: Please go to the webpage linked above. Please
         read the article “Baldwin, Nanni di Banco’s Four Martyrs.” The
@@ -567,7 +567,7 @@
         Crowned Martyrs”**
 
         Link: [Daniel Philpott’s Image of Nanni di Banco’s “Four
-        Martyrs”](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Nanni-di-Banco-Four-Crowned-Martyrs-Upload.pdf) (PDF)  
+        Martyrs”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Nanni-di-Banco-Four-Crowned-Martyrs-Upload.pdf) (PDF)  
            
          Instructions: Please view the image above while reading Robert
         Baldwin’s article on Nanni di Banco’s “Four Crowned Martyrs.”  
@@ -643,7 +643,7 @@
         Link: SmartHistory.org’s [“Masaccio’s Holy
         Trinity”](http://smarthistory.khanacademy.org/holy-trinity-santa-maria-novella-florence.html) (YouTube)
         and "[Masaccio's Holy Trinity
-        Article](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Masaccio%E2%80%99s-Holy-Trinity-Article-Upload.pdf)"
+        Article](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Masaccio%E2%80%99s-Holy-Trinity-Article-Upload.pdf)"
         (PDF).  
            
          Instructions: Read this article and watch this video. They
@@ -712,7 +712,7 @@
     -   **Reading: SmartHistory.org’s “Fra Filippo Lippi”**
 
         Link: SmartHistory.org’s [“Fra Filippo
-        Lippi”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-Lippi.pdf)
+        Lippi”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-Lippi.pdf)
         (PDF)  
            
          Instructions: Please read this article about *Madonna and Child
