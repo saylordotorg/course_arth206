@@ -48,7 +48,7 @@ bgimage: arth206.jpg
     -   **Reading: SmartHistory.org’s “Mannerism in Italy and Spain”**
 
         Link: SmartHistory.org’s [“Mannerism in Italy and
-        Spain”](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Mannerism-in-Italy-and-Spain.pdf)
+        Spain”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Mannerism-in-Italy-and-Spain.pdf)
         (PDF)  
            
          Instructions: Please read this short introduction to
@@ -87,7 +87,7 @@ bgimage: arth206.jpg
         Link: The Saylor Foundation: The University of Adelaide: John
         Addington Symonds’ translation of [“The Autobiography of
         Benvenutto
-        Cellini”](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-The-Autobiography-of-Benvenuto-Cellini.pdf) (PDF)  
+        Cellini”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-The-Autobiography-of-Benvenuto-Cellini.pdf) (PDF)  
            
          Also available in:  
 
@@ -143,17 +143,17 @@ bgimage: arth206.jpg
         El Greco’s Burial of Count Orgaz**
 
         Links: Wikimedia Commons: Rosso’s [Descent from the
-        Cross](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Descent-from-the-Cross-Upload.pdf),
+        Cross](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Descent-from-the-Cross-Upload.pdf),
         Parmigianino’s [Madonna with the Long
-        Neck](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Madonna-with-the-Long-Neck-Upload.pdf),
+        Neck](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Madonna-with-the-Long-Neck-Upload.pdf),
         Michelangelo’s [Last
-        Judgment](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Last-Judgment-Upload.pdf),
+        Judgment](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Last-Judgment-Upload.pdf),
         da Vinci’s [Last
-        Supper](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-da-Vinci-The-Last-Supper-Upload.pdf)*, *Tintoretto’s
+        Supper](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-da-Vinci-The-Last-Supper-Upload.pdf)*, *Tintoretto’s
         [Last
-        Supper](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Tintoretto-Last-Supper-Upload.pdf)*, *and
+        Supper](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Tintoretto-Last-Supper-Upload.pdf)*, *and
         El Greco’s [Burial of Count
-        Orgaz](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-The-Burial-of-Count-Orgaz-Upload.pdf)  
+        Orgaz](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-The-Burial-of-Count-Orgaz-Upload.pdf)  
            
          Note: All these images are in PDF format.  
            
@@ -298,19 +298,19 @@ bgimage: arth206.jpg
         Maggiore, and Redentore**
 
         Links: Wikimedia Commons: [Laurentian Library
-        Vestibule](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Vestibule-of-the-Laurentian-Library-Upload.pdf) and
+        Vestibule](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Vestibule-of-the-Laurentian-Library-Upload.pdf) and
         [Laurentian Library
-        Staircase](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Laurentian-Library-Staircase-UPLOAD.pdf);
+        Staircase](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Laurentian-Library-Staircase-UPLOAD.pdf);
         Flickr: [Laurentian
-        Library](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Laurentian-Library-UPLOAD.pdf),
+        Library](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Laurentian-Library-UPLOAD.pdf),
         [Palazzo del
-        Te](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Palazzo-del-Te-Upload.pdf),
+        Te](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Palazzo-del-Te-Upload.pdf),
         [Painting in the Palazzo del
-        Te](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Painting-in-the-Palazzo-del-Te-Upload.pdf),
+        Te](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Painting-in-the-Palazzo-del-Te-Upload.pdf),
         [San Giorgio
-        Maggiore](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-San-Giorgio-Maggiore-UPLOAD.pdf),
+        Maggiore](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-San-Giorgio-Maggiore-UPLOAD.pdf),
         and
-        [Redentore](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Redentore-UPLOAD.pdf)  
+        [Redentore](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Redentore-UPLOAD.pdf)  
            
          Note: All of these images are in PDF format.  
            
@@ -355,7 +355,7 @@ bgimage: arth206.jpg
 
         Link: The Saylor Foundation: Alexandra M. Korey’s
         [“Michelangelo’s Laurentian Library, Mannerist
-        Tendencies”](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Michelangelo%E2%80%99s-Laurentian-Library-Upload.pdf) (HTML)  
+        Tendencies”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Michelangelo%E2%80%99s-Laurentian-Library-Upload.pdf) (HTML)  
            
          Instructions: Please read this passage from Art Historian
         Alexandra M. Korey’s blog that discusses the Laurentian Library
@@ -426,7 +426,7 @@ bgimage: arth206.jpg
 
         Link: The Wallace Collection: [“Treasure of the Month-May 2006:
         Venus after her Bath, Giovanni
-        Bologna”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-VenusBath.pdf) (PDF)  
+        Bologna”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-VenusBath.pdf) (PDF)  
            
          Instructions: Please read this short passage, which will serve
         as a biographical survey of Giovanni Bologna’s life and
@@ -442,7 +442,7 @@ bgimage: arth206.jpg
         Bologna**
 
         Link: Wikimedia: Images of sculpture by Giovanni Bologna:
-        “[Giambologna](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Images-of-Sculpture-by-Giovanni-Bologna.pdf)”
+        “[Giambologna](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Images-of-Sculpture-by-Giovanni-Bologna.pdf)”
         (PDF)  
            
          Instructions: Please follow the link to see images of sculpture

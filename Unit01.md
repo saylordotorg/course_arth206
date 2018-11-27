@@ -65,7 +65,7 @@ bgimage: arth206.jpg
     -   **Reading: Connexions: Albert Van Helden’s “Italy”**
 
         Link: Connexions: Albert Van Helden’s
-        [“Italy”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-Italy.pdf) (PDF)  
+        [“Italy”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-Italy.pdf) (PDF)  
            
          Also available in:  
          [HTML and
@@ -108,7 +108,7 @@ bgimage: arth206.jpg
         Renaissance” Map**
 
         Link: SmartHistory.org’s “[Florence in the Early
-        Renaissance](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-FlorenceEarlyRen.pdf)”
+        Renaissance](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-FlorenceEarlyRen.pdf)”
         Map (PDF)  
            
          Instructions: Simply view the map on this webpage to better
@@ -133,9 +133,9 @@ bgimage: arth206.jpg
 
         Links: Connexions: Jack E. Maxfield’s [“A Comprehensive Outline
         of World History: Europe: 1201 to
-        1300”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Eur1201.pdf) (PDF)
+        1300”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Eur1201.pdf) (PDF)
         and [“A Comprehensive Outline of World History: Europe: 1301 to
-        1400”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Eur1301.pdf)
+        1400”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Eur1301.pdf)
         (PDF)  
            
          Also available in: (1201 to 1300)  
@@ -217,11 +217,11 @@ bgimage: arth206.jpg
 
         Link: Virginia Tech: David Burr's Translation of ["The Rule of
         the Franciscan
-        Order"](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-The-Rule-of-the-Franciscan-Order-Burr.pdf) (PDF)
+        Order"](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-The-Rule-of-the-Franciscan-Order-Burr.pdf) (PDF)
         and [Ellesmere
-        Chaucer's ](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-St.-Francis-Ellesmere-Chaucer-Upload.pdf)(PDF) and
+        Chaucer's ](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-St.-Francis-Ellesmere-Chaucer-Upload.pdf)(PDF) and
         [Gioto di
-        Bondone](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-St.-Francis-28-Frescoes-Giotto-Upload.pdf)['s](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-St.-Francis-28-Frescoes-Giotto-Upload.pdf) (PDF)
+        Bondone](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-St.-Francis-28-Frescoes-Giotto-Upload.pdf)['s](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-St.-Francis-28-Frescoes-Giotto-Upload.pdf) (PDF)
         illustrations of Saint Francis.  
            
          Instructions: Please view the images of Giotto’s and Chaucer's
@@ -239,7 +239,7 @@ bgimage: arth206.jpg
 
         Link: Virginia Tech: David Burr’s Translation of Thomas of
         Celano’s [“First and Second Lives of Saint
-        Francis”](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-The-1st-and-2nd-Lives-of-St-Francis-Burr1.pdf) (PDF)  
+        Francis”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-The-1st-and-2nd-Lives-of-St-Francis-Burr1.pdf) (PDF)  
            
          Instructions: Please read this work on Saint Francis’ early
         life, written in its original version by a thirteenth-century
@@ -258,7 +258,7 @@ bgimage: arth206.jpg
 
         Link: Wikimedia Commons: [“Saint Francis Cycle in the Upper
         Church of San Francesco at
-        Assisi”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-StFrancis.pdf)
+        Assisi”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-StFrancis.pdf)
         (PDF)  
            
          Instructions: Please view this cycle of frescoes in conjunction
@@ -282,7 +282,7 @@ bgimage: arth206.jpg
 
         Link: Robert Baldwin’s *[Social History of Art: “Humanism and
         the Early Italian
-        Renaissance”](http://www.saylor.org/site/wp-content/uploads/2012/01/ARTH206-1.2.4-Baldwin-Renaissance-Humanism-an-Overview.pdf) *(PDF)  
+        Renaissance”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/ARTH206-1.2.4-Baldwin-Renaissance-Humanism-an-Overview.pdf) *(PDF)  
            
          Instructions: Please go to the webpage linked above. Please
         read the article “Baldwin, Renaissance Humanism, an Overview.”
@@ -322,31 +322,31 @@ bgimage: arth206.jpg
         of the Magi; Flickr: Niccola Pisano’s “Pisa**
 
         Links: Wikimedia Commons: “[Justinian: Byzantine
-        Mosaic,](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Justinian.pdf)”
+        Mosaic,](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Justinian.pdf)”
         Giotto’s
-        [Lamentation](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Lamentation.pdf)*, *Turner’s
+        [Lamentation](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Lamentation.pdf)*, *Turner’s
         [Rain, Steam, and
-        Speed](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Turner.pdf)*, *Cimabue’s
+        Speed](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Turner.pdf)*, *Cimabue’s
         [Madonna
-        Enthroned](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-MadEnthroned.pdf)*, *Arnolfo
+        Enthroned](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-MadEnthroned.pdf)*, *Arnolfo
         di Cambio's “[Madonna in Trono
-        Sculpture](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-TronoSculpt.pdf),”
+        Sculpture](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-TronoSculpt.pdf),”
         Giotto's [Meeting at the Golden
-        Gate](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-GoldenGate.pdf)*,*
+        Gate](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-GoldenGate.pdf)*,*
         Giotto’s [Kiss of
-        Judas](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-KissJudas.pdf)*,*
+        Judas](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-KissJudas.pdf)*,*
         Giotto’s [Death of St.
-        Francis](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-DeathStFrancis.pdf)*,*
+        Francis](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-DeathStFrancis.pdf)*,*
         Lorenzetti’s [Allegory of Good
-        Government](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-AllegoryGovt.pdf)*, *and
+        Government](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-AllegoryGovt.pdf)*, *and
         Gentile da Fabriano’s [Adoration of the
-        Magi](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Magi.pdf);
+        Magi](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Magi.pdf);
         Flickr: Niccola Pisano’s “[Pisa Baptistery
-        Pulpit](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-Pulpit.pdf),”
+        Pulpit](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Pulpit.pdf),”
         [Scrovegni Chapel by
-        Giotto](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-ScrovegniChapel.pdf),
+        Giotto](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-ScrovegniChapel.pdf),
         and Duccio’s “[Madonna
-        Enthroned](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-MadonnaEnthroned.pdf)”  
+        Enthroned](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-MadonnaEnthroned.pdf)”  
            
          Note: All files are in PDF format.  
            
@@ -411,7 +411,7 @@ bgimage: arth206.jpg
 
         Link: Bluffton University: Mary Ann Sullivan’s [“Index of Art
         Historical Sites: Milan, Italy: Milan
-        Cathedral”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-MilanCath.pdf) (PDF)  
+        Cathedral”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-MilanCath.pdf) (PDF)  
            
          Instructions: Carefully view all the images of the cathedral
         and its reliefs as well as Mary Ann Sullivan’s text.   
@@ -464,7 +464,7 @@ bgimage: arth206.jpg
 
         Link: Robert Baldwin’s *[Social History of Art: “Gentile da
         Fabriano’s ‘Adoration of the
-        Magi’”](http://www.saylor.org/site/wp-content/uploads/2012/01/ARTH206-1.4.3-Baldwin-Gentile-da-Fabriano%E2%80%99s-%E2%80%98Adoration-of-the-Magi%E2%80%99.pdf)*
+        Magi’”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/ARTH206-1.4.3-Baldwin-Gentile-da-Fabriano%E2%80%99s-%E2%80%98Adoration-of-the-Magi%E2%80%99.pdf)*
         (PDF)  
            
          Instructions: Please go to the webpage linked above. Please
@@ -483,7 +483,7 @@ bgimage: arth206.jpg
     -   **Web Media: Gentile da Fabriano’s "Adoration of the Magi"**
 
         Link: [Gentile da Fabriano’s “Adoration of the
-        Magi”](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Fabriano-Adoration-of-the-Magi-Upload.pdf)
+        Magi”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Fabriano-Adoration-of-the-Magi-Upload.pdf)
         (PDF)  
            
          Instructions: Please view the artwork linked above while
@@ -496,7 +496,7 @@ bgimage: arth206.jpg
         Tuscany”**
 
         Link: Connexions: Albert Van Helden’s [“Florence and
-        Tuscany”](http://www.saylor.org/site/wp-content/uploads/2011/10/ARTH-206-Florence-and-Tuscany.pdf) (PDF)  
+        Tuscany”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-Florence-and-Tuscany.pdf) (PDF)  
            
          Also available in:  
          [HTML and
@@ -552,7 +552,7 @@ bgimage: arth206.jpg
         Link: Bluffton University: Mary Ann Sullivan’s [“Index of Art
         Historical Sites: Florence, Italy: Reliefs, South Doors,
         Florence
-        Baptistry”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-FlorenceBap.pdf) (PDF)  
+        Baptistry”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-FlorenceBap.pdf) (PDF)  
            
          Instructions: Please carefully view all the images of the
         reliefs as well as Mary Ann Sullivan’s text on this page.  
@@ -625,7 +625,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org's: [“Giotto’s The
         Lamentation”](https://www.youtube.com/watch?feature=player_embedded&v=RbBQN0Wt_wY) (YouTube)
         and "[Giotto's The Lamentation
-        Article](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Giottos-Lamentation-Article-Upload.pdf)"
+        Article](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Giottos-Lamentation-Article-Upload.pdf)"
         (PDF).  
            
          Instructions: Please watch this video, with speakers Dr. Beth
@@ -672,7 +672,7 @@ bgimage: arth206.jpg
         “Biography”**
 
         Link: The Saylor Foundation: ducciodibuoninsegna.org’s
-        “[Biography](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Duccio-Di-Buoninsegna-Biography-Upload.pdf)”
+        “[Biography](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Duccio-Di-Buoninsegna-Biography-Upload.pdf)”
         (PDF)  
            
          Instructions: Please follow the link to read a brief biography
@@ -752,7 +752,7 @@ bgimage: arth206.jpg
 
         Link: Bluffton University: Mary Ann Sullivan’s [“Index of Art
         Historical Sites: Siena, Italy: The Duomo of Santa Maria dell’
-        Assunta”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-SienaDuomo.pdf) (PDF)  
+        Assunta”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-SienaDuomo.pdf) (PDF)  
            
          Instructions: Please carefully view all the images of the Duomo
         and its reliefs and read Mary Ann Sullivan’s text.   
@@ -769,7 +769,7 @@ bgimage: arth206.jpg
 
         Link: Bluffton University: Mary Ann Sullivan’s [“Index of Art
         Historical Sites: Siena, Italy: The Palazzo Pubblico, Piazza del
-        Campo”](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-206-SienaPalPub.pdf) (PDF)  
+        Campo”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-SienaPalPub.pdf) (PDF)  
            
          Instructions: Please carefully view the images of the Palazzo
         Pubblico, and read Mary Ann Sullivan’s captions.   
@@ -818,7 +818,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org's: [“Sienese Art: Duccio, Martini, and
         Lorenzetti”](http://www.youtube.com/watch?v=0zfBltgsGVA) (YouTube)
         and [“Sienese Art: Duccio, Martini and Lorenzetti
-        Article”](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Sienese-Art-Article-Upload.pdf) (PDF)  
+        Article”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Sienese-Art-Article-Upload.pdf) (PDF)  
            
          Instructions: Please watch this video, with speakers Dr. David
         Drogin and Dr. Beth Harris, in its entirety (about 5 minutes).
@@ -841,7 +841,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org's: [“Duccio’s Madonna and
         Child”](http://smarthistory.khanacademy.org/duccio-madonna.html) (YouTube)
         and [“Duccio's Madonna and Child
-        Article”](http://www.saylor.org/site/wp-content/uploads/2012/07/ARTH206-Duccios-Madonna-and-Child-Article-Upload.pdf) (PDF)  
+        Article”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Duccios-Madonna-and-Child-Article-Upload.pdf) (PDF)  
            
          Instructions: Watch this video (about 5 minutes) in its
         entirety, and read the accompanying article. In this video,
