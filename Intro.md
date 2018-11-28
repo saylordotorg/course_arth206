@@ -79,7 +79,7 @@ computer.
 .xls, etc.).  
 -  Have competency in the English language.
 -  Have read the [Saylor Student
-Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 -  Have completed [ARTH101](http://www.saylor.org/courses/arth101/):
 Art Appreciation and Techniques,
 [ARTH110](http://www.saylor.org/arth110): Introduction to Western Art
