@@ -73,7 +73,7 @@ bgimage: arth206.jpg
 
         Link: Connexions: Jack Maxfield’s [“A Comprehensive Outline of
         World History: Europe: 1501 to
-        1600”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Eur1501.pdf) (PDF)  
+        1600”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-206-Eur1501.pdf) (PDF)  
            
          Also available in:  
          [HTML and
@@ -98,7 +98,7 @@ bgimage: arth206.jpg
 
         Link: SmartHistory.org’s [“1500-1600: The End of the Renaissance
         and the
-        Reformation”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-Reformation.pdf)
+        Reformation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH-206-Reformation.pdf)
         (PDF)  
            
          Also Available in:
@@ -122,7 +122,7 @@ bgimage: arth206.jpg
     -   **Reading: Connexions: Albert Van Helden’s “Copernican System”**
 
         Link: Connexions: Albert Van Helden’s [“Copernican
-        System”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-Copernican-System.pdf) (PDF)  
+        System”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH-206-Copernican-System.pdf) (PDF)  
            
          Also available in:  
          [HTML and
@@ -143,7 +143,7 @@ bgimage: arth206.jpg
 
         Link: SmartHistory.org’s Professor Joseph Dauben’s [“Galileo and
         the Art of Renaissance
-        Science”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-Galileo.pdf)
+        Science”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH-206-Galileo.pdf)
         (PDF)  
            
          Also Available in:
@@ -167,7 +167,7 @@ bgimage: arth206.jpg
 
         Link: SmartHistory.org’s Professor Joseph Dauben’s [“The
         Interaction of Artists and Scientists in the
-        Renaissance”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-ArtSciRenaissance.pdf)
+        Renaissance”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH-206-ArtSciRenaissance.pdf)
         (PDF)  
            
          Also Available in:
@@ -206,7 +206,7 @@ bgimage: arth206.jpg
 
         Link: The Saylor Foundation: Selections from Giorgio Vasari’s
         "[Lives of the Most Eminent Painters, Sculptors and
-        Architects](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Giorgio-Vasari-Lives-of-the-most-Emminent.pdf)"
+        Architects](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Giorgio-Vasari-Lives-of-the-most-Emminent.pdf)"
         (PDF) Volumes 1 and 2.  
            
          Also available in:  
@@ -246,7 +246,7 @@ bgimage: arth206.jpg
     -   **Reading: SmartHistory.org’s “High Renaissance”**
 
         Link: SmartHistory.org’s [“High
-        Renaissance”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-HighRenaissance.pdf)
+        Renaissance”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH-206-HighRenaissance.pdf)
         (HTML)  
            
          Also Available in:
@@ -270,7 +270,7 @@ bgimage: arth206.jpg
 
         Link: The Open University: The OpenLearn Team’s [“Leonardo’s
         Life: A Timeline of
-        Genius”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-LeonardosLive.pdf) (PDF)  
+        Genius”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-206-LeonardosLive.pdf) (PDF)  
            
          Also Available in:
         [HTML](http://www.open.ac.uk/openlearn/history-the-arts/history/world-history/leonardos-life-timeline-genius)  
@@ -296,7 +296,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org’s [“Leonardo da Vinci: Renaissance
         Artist”](http://www.youtube.com/watch?v=URcpchlTNBY) (YouTube)
         and [“Leonardo da
-        Vinci”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Leonardo-da-Vinci-Article-Upload.pdf) (PDF)  
+        Vinci”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Leonardo-da-Vinci-Article-Upload.pdf) (PDF)  
            
          Instructions: Watch this video (about 13 minutes) and read the
         accompanying article. In this video, speakers Dr. David Drogin
@@ -315,7 +315,7 @@ bgimage: arth206.jpg
 
         Link: Robert Baldwin’s *[Social History of Art: “An Introduction
         to the Art of
-        Leonardo”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/ARTH206-3.2.1-Baldwin-Leonardo-an-Introduction.pdf)*
+        Leonardo”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/ARTH206-3.2.1-Baldwin-Leonardo-an-Introduction.pdf)*
         (PDF)  
            
          Instructions: Please go to the webpage linked above. Please
@@ -335,7 +335,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org’s “[Leonardo’s Virgin of the
         Rocks](http://www.youtube.com/watch?v=94xKRkCHlv0)” (YouTube)
         and “[Leonardo's Virgin of the Rocks
-        Article](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Leonardo-da-Vinci-virgin-of-the-rocks-Article-Upload.pdf)” (PDF)  
+        Article](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Leonardo-da-Vinci-virgin-of-the-rocks-Article-Upload.pdf)” (PDF)  
            
          Instructions: Watch this video (about 6 minutes) with speakers
         Dr. Steven Zucker and Dr. Beth Harris. Also, read this article,
@@ -353,7 +353,7 @@ bgimage: arth206.jpg
     -   **Reading: SmartHistory.org’s “Leonardo’s Mona Lisa”**
 
         Link: SmartHistory.org’s [“Leonardo’s Mona
-        Lisa”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/ARTH-206-MonaLisa.pdf)
+        Lisa”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/10/ARTH-206-MonaLisa.pdf)
         (PDF)  
            
          Also Available in:
@@ -377,7 +377,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org’s [“Leonardo’s Last
         Supper”](http://www.youtube.com/watch?v=iV6_wTrkd70) (YouTube)
         and [“Leonardo's Last Supper
-        Article”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Leonardo%E2%80%99s-Last-Supper-Article-Upload.pdf) (PDF)  
+        Article”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Leonardo%E2%80%99s-Last-Supper-Article-Upload.pdf) (PDF)  
            
          Instructions: Watch this video (12:32 minutes). In this video,
         Dr. Steven Zucker and Dr. Beth Harris discuss Leonardo’s *Last*
@@ -400,20 +400,20 @@ bgimage: arth206.jpg
         Leonardo Discovered”   
            
          [La Bella Principessa - who was the eponymous
-        princess](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1-01-La-Bella-Principessa-who-was-the-eponymous-princess_.mp3)
+        princess](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1-01-La-Bella-Principessa-who-was-the-eponymous-princess_.mp3)
         (MP3)  
          [Verifying La Bella Principessa - The science behind the
-        art](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1-02-Verifying-La-Bella-Principessa-The-science-behind-the-art.mp3)
+        art](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1-02-Verifying-La-Bella-Principessa-The-science-behind-the-art.mp3)
         (MP3)  
          [What makes La Bella Principessa a genuine Leonardo Da Vinci
-        portrait](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1-03-What-makes-La-Bella-Principessa-a-genuine-Leonardo-Da-Vinci-portrait_.mp3)
+        portrait](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1-03-What-makes-La-Bella-Principessa-a-genuine-Leonardo-Da-Vinci-portrait_.mp3)
         (MP3)  
          [Discovering 'La Bella
-        Principessa'](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1-04-Discovering-La-Bella-Principessa.mp3)
+        Principessa'](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1-04-Discovering-La-Bella-Principessa.mp3)
         (MP3)  
          [A Leonardo Discovered. La Bella Principessa. Discussion with
         Martin
-        Kemp](https://resources.saylor.org/archived/wp-content/uploads/2012/07/1-05-A-Leonardo-Discovered.-La-Bella-Principessa.-Discussion-with-Martin-Kemp.mp3)
+        Kemp](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/1-05-A-Leonardo-Discovered.-La-Bella-Principessa.-Discussion-with-Martin-Kemp.mp3)
         (MP3)  
            
          Instructions: Please click through the above links to hear a
@@ -434,7 +434,7 @@ bgimage: arth206.jpg
 
         Link: Connexions: John Freed’s [“Medieval to Early Modern
         Cultural Paradigm
-        Shift”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Freed-Paradigm-Shift-Upload.pdf) (PDF)  
+        Shift”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Freed-Paradigm-Shift-Upload.pdf) (PDF)  
            
          Also available in:  
          [HTML and
@@ -460,7 +460,7 @@ bgimage: arth206.jpg
 
         Link: SmartHistory.org’s [“Michelangelo: Sculptor, Painter,
         Architect and
-        Poet”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-Michelangelo.pdf)
+        Poet”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-206-Michelangelo.pdf)
         (PDF)  
            
          Also Available in:
@@ -503,7 +503,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org’s [“Michelangelo’s
         David”](http://www.youtube.com/watch?v=-oXAekrYytA) (YouTube)
         and [“Michelangelo's David
-        Article”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Michelangelos-david-Article-Upload.pdf) (PDF)  
+        Article”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Michelangelos-david-Article-Upload.pdf) (PDF)  
            
          Instructions: Watch this video with speaker Dr. David Drogin
         and read this article, both of which discuss Michelangelo’s
@@ -525,7 +525,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org’s [“Michelangelo, Moses, ca. 1513 -
         1515”](http://www.youtube.com/watch?v=pnBbFIxCIGw) (YouTube) and
         [“Michelangelo's Moses
-        Article”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Michelangelo-Moses-Article-Upload.pdf) (PDF)  
+        Article”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Michelangelo-Moses-Article-Upload.pdf) (PDF)  
            
          Instructions: Watch this brief video (about 4 minutes) with
         speakers Dr. Steven Zucker and Dr. Beth Harris. Also, read the
@@ -602,7 +602,7 @@ bgimage: arth206.jpg
         Link: SmartHistory.org’s [“Raphael, Alba Madonna, c.
         1510”](http://www.youtube.com/watch?v=ln9VIRiocps) (YouTube) and
         [“Raphael's Alba Madonna,
-        Article”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Raphaels-Alba-Madonna-Article-Upload.pdf) (PDF)  
+        Article”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Raphaels-Alba-Madonna-Article-Upload.pdf) (PDF)  
            
          Instructions: Read the brief article, and watch this short
         video (about 6 minutes) with speakers Dr. Beth Harris and Dr.
@@ -640,7 +640,7 @@ bgimage: arth206.jpg
 
         Link: Robert Baldwin’s *[Social History of Art: “Papal Politics
         and Raphael’s Stanza della Segantura as Papal Golden
-        Age”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/ARTH206-3.4.4-Baldwin-Raphael%E2%80%99s-Stanza-della-Segnatura-and-Papal-Politics.pdf)*
+        Age”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/ARTH206-3.4.4-Baldwin-Raphael%E2%80%99s-Stanza-della-Segnatura-and-Papal-Politics.pdf)*
         (PDF)  
            
          Instructions: Please go to the webpage linked above. Please
@@ -699,11 +699,11 @@ bgimage: arth206.jpg
         "School of Athens", 3. "Parnassus"**
 
         Links: Raphael’s Stanza della Segnatura: 1.
-        "[Disputa](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Disputa-Upload.pdf)",
+        "[Disputa](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Disputa-Upload.pdf)",
         2. "[School of
-        Athens](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-School-of-Athens-Upload.pdf)",
+        Athens](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-School-of-Athens-Upload.pdf)",
         3.
-        "[Parnassus](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Parnassus-Upload.pdf)" (PDF)  
+        "[Parnassus](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Parnassus-Upload.pdf)" (PDF)  
            
          Instructions: Please view the images above while reading Robert
         Baldwin’s article on the “Stanze della Segnatura.”  
@@ -897,7 +897,7 @@ bgimage: arth206.jpg
 
         Link: Robert Baldwin’s *Social History of Art*: [“Titian,
         Assumption of the Virgin, S. Maria dei Frari,
-        1516–18”](https://resources.saylor.org/archived/wp-content/uploads/2012/01/ARTH206-3.6.3-Baldwin-Titian%E2%80%99s-Assumption-of-the-Virgin-in-the-Frari.pdf)
+        1516–18”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/ARTH206-3.6.3-Baldwin-Titian%E2%80%99s-Assumption-of-the-Virgin-in-the-Frari.pdf)
         (PDF)  
            
          Instructions: Please go to the webpage linked above. Please
@@ -916,7 +916,7 @@ bgimage: arth206.jpg
     -   **Web Media: Titian’s Assumption of the Virgin**
 
         Link: [Titian’s *Assumption of the
-        Virgin*](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Titian-Assumption-of-the-Virgin-Upload.pdf) (PDF)  
+        Virgin*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Titian-Assumption-of-the-Virgin-Upload.pdf) (PDF)  
            
          Instructions: Please view the image above while reading Robert
         Baldwin’s article on Titian’s *Assumption of the Virgin*.  
@@ -960,7 +960,7 @@ bgimage: arth206.jpg
 
         Link: Bluffton University: Mary Ann Sullivan’s [“Index of Art
         Historical Sites: Rome, Italy: Tempietto, San Pietro in
-        Montorio”](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-206-RomeTempietto.pdf) (HTML)  
+        Montorio”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-206-RomeTempietto.pdf) (HTML)  
            
          Instructions: Please carefully view all the images of
         Bramante’s Tempietto and read Mary Ann Sullivan’s text.   
@@ -979,7 +979,7 @@ bgimage: arth206.jpg
         Link: Professor Robert Baldwin, Associate Professor of Art
         History, Connecticut College, Social History of Art:
         “[Michelangelo's Tomb of Julius
-        II](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-Tomb-of-Julius-2.pdf)”
+        II](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-Tomb-of-Julius-2.pdf)”
         (PDF)  
            
          Also available in:  
@@ -1025,7 +1025,7 @@ bgimage: arth206.jpg
         Link: Professor Robert Baldwin, Associate Professor of Art
         History, Connecticut College, Social History of Art:
         “[Michelangelo's Bacchus and Roman
-        Pieta](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelo-Pieta-Bacchus.pdf)”(PDF)  
+        Pieta](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelo-Pieta-Bacchus.pdf)”(PDF)  
            
          Also available in:  
          [HTML](http://www.socialhistoryofart.com/essaysbyperiod.htm)  
@@ -1049,7 +1049,7 @@ bgimage: arth206.jpg
         Link: Professor Robert Baldwin, Associate Professor of Art
         History, Connecticut College, Social History of Art:
         “[Michelangelo's
-        David](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-David.pdf)”
+        David](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-David.pdf)”
         (PDF)  
            
          Also available in:  
@@ -1074,7 +1074,7 @@ bgimage: arth206.jpg
         Link: Professor Robert Baldwin, Associate Professor of Art
         History, Connecticut College, Social History of Art:
         “[Michelangelo's Sistine
-        Chapel](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-Sistine-Chapel.pdf)”
+        Chapel](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-Sistine-Chapel.pdf)”
         (PDF)  
            
          Also available in:  
@@ -1099,7 +1099,7 @@ bgimage: arth206.jpg
         Link: Professor Robert Baldwin, Associate Professor of Art
         History, Connecticut College, Social History of Art:
         “[Michelangelo's Last
-        Judgment](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-Last-Judgment.pdf)”
+        Judgment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Baldwin-Michelangelos-Last-Judgment.pdf)”
         (PDF)  
            
          Also available in:  
@@ -1186,9 +1186,9 @@ bgimage: arth206.jpg
 
          Link: Wikimedia: "[Images of Architecture Designed by Michele
         Sanmicheli
-        1](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Images-of-Architecture-Designed-by-Michele-Sanmicheli-1.pdf)" (PDF)
+        1](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Images-of-Architecture-Designed-by-Michele-Sanmicheli-1.pdf)" (PDF)
         and "[Images of Architecture Designed by Michele Sanmicheli
-        2](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ARTH206-Images-of-Architecture-Designed-by-Michele-Sanmicheli-2.pdf)" (PDF).  
+        2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ARTH206-Images-of-Architecture-Designed-by-Michele-Sanmicheli-2.pdf)" (PDF).  
            
          Instructions: Please follow the links above to see images of
         architecture designed by Sanmicheli.   
